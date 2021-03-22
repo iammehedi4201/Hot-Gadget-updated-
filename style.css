@@ -1,0 +1,100 @@
+.bg-image
+{   
+    height: 500px;
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: 20px 319px;
+} 
+ 
+ .container
+{
+  margin-bottom: 30px;
+} 
+
+/*Navbar css start form here*/
+.navbar
+{
+    margin-bottom: 30px;
+}
+#container1
+{
+    margin-bottom:0px;
+}
+.navbar-brand img
+{
+   width:50%;
+}
+
+/*carasuol css start form here*/
+
+.carousel-item p
+{
+    color:darkgray;
+}
+
+.btn-style
+{
+    border: 2px solid black;
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+}
+.carousel-indicators li
+{
+    background-color: darkorange;
+}
+.back-img
+{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-size:60px;
+    background-position:18px;
+}
+.img-size
+{
+    width: 70%; 
+}
+
+/*Smartphone css form here.   [smartphone & labtop section css are same]*/
+
+.smart-head
+{
+    margin-bottom: 15px;
+}
+
+.h6-style
+{
+    color: darkorange;
+}
+.card img
+{
+    width: 70%;
+}
+.card-footer
+ {
+    padding: .75rem 1.25rem;
+     background-color:white !important;
+     border-top: none !important;
+}
+
+/*catagories css start form here*/
+
+hr
+{
+    border-bottom: 5px solid orange;
+    border-radius: 4px;
+    text-align: center;
+    width: 130px;
+}
+.cat-style
+{    
+
+     padding:40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    display: block;
+
+ 
+
+}
